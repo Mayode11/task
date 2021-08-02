@@ -1,0 +1,66 @@
+.rope {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* align-items: center; */
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.roww {
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 130px;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+.over {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+.button2 {
+  background-color: #6c63ff;
+}
+.button5 {
+  background-color: #6c63ff;
+  width: 100px;
+  height: 40px;
+}
+.bout {
+  align-items: center;
+}
+.button7 {
+  width: 100px;
+  height: 40px;
+}
+.button {
+}
+.button1:hover {
+  background-color: #6c63ff;
+}
+.image {
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.button7:hover {
+  background-color: #6c63ff;
+}
+.poop {
+  margin-top: 50px;
+  width: 250px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
